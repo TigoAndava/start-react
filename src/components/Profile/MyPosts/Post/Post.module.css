@@ -1,0 +1,29 @@
+.item {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+.avatar {
+    width: 50px;
+    height: 50px;
+}
+
+.avatar img{
+    border-radius: 50%;
+}
+.text {
+    margin-left: 5px;
+    color: #fff;
+}
+.content {
+    display: flex;
+    align-items: center;
+}
+.likes {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+.likecount {
+    margin-left: 5px;
+}

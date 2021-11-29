@@ -1,0 +1,23 @@
+.dialogs {
+    display: flex;
+}
+
+.dialogsitems {
+    width: 10%;
+    padding: 20px;
+    border-right: 1px solid #000;
+    height: 100%;
+}
+
+.dialog {
+    color: white;
+}
+
+.messages {
+    width: 90%;
+    padding: 20px;
+}
+
+.active {
+    color: black;
+}

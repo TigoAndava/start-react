@@ -1,0 +1,22 @@
+.content {
+    grid-area: c;
+}
+.inputgroup textarea {
+    width: 300px;
+    min-height: 50px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 1px solid #000;
+}
+.inputgroup textarea:focus-visible {
+    outline: none;
+}
+
+.button {
+    margin-top: 15px;
+}
+.button button{
+    width: 80px;
+    height: 35px;
+}
+
